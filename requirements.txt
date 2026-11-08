@@ -1,0 +1,7 @@
+Flask
+requests
+pycryptodome
+colorama
+urllib3
+psutil
+PySocks
