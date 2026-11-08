@@ -1493,7 +1493,7 @@ tr:hover td{background:rgba(43,255,136,.05)}
 <div class="aurora"><span></span><span></span><span></span></div>
 <div class="wrap">
   <header>
-    <div><div class="logo">NGRAXX</div><div class="sub">100-Device Farm · Strict Proxy · v3.1</div></div>
+    <div><div class="logo">ANMOL</div><div class="sub">100-Device Farm · Strict Proxy · v3.1</div></div>
     <div class="chips">
       <div class="chip" id="chipState">IDLE</div>
       <div class="chip" id="chipEngine">ENGINE CLASSIC</div>
